@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/csaxton/c123npm/issues"
   },
-  "homepage": "https://github.com/csaxton/c123npm#readme"
+  "homepage": "https://github.com/csaxton/c123npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
